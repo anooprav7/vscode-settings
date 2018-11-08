@@ -38,8 +38,5 @@
 	"workbench.panel.defaultLocation": "right",
 	"workbench.startupEditor": "none",
 	"workbench.statusBar.visible": true,
-	"workbench.sideBar.location": "left",
-	
-	
-	
+	"workbench.sideBar.location": "left",	
 }
