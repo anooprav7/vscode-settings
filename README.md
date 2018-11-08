@@ -7,3 +7,6 @@ My VSCode settings
 ## Keyboard Shortcuts (OSX)
 * shift + option + f => Format code 
 * command + b => Toggle show/hide of sidebar
+* command + shift + t => Open last closed tab
+* command + p => File name based search
+* command + shift + f => Open Search for string pattern in project
