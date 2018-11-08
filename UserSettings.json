@@ -1,0 +1,12 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "editor.renderIndentGuides": false,
+    "editor.fontFamily": "Open Sans, Menlo, Monaco, 'Courier New', monospace",
+    "editor.letterSpacing": 0,
+    "editor.fontWeight": "400",
+    "editor.tabSize": 4,
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "prettier.tabWidth": 4,
+    "guides.active.width": 2,
+    "editor.detectIndentation": false
+}
