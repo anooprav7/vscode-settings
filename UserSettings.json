@@ -1,34 +1,45 @@
 {
-	"workbench.iconTheme": "vscode-icons",
+	"breadcrumbs.enabled": true,
+	"breadcrumbs.symbolPath": "last",
+	
 	"editor.renderIndentGuides": false,
 	"editor.fontFamily": "Fira Code, Open Sans, Menlo, Monaco, 'Courier New', monospace",
 	"editor.letterSpacing": 0,
 	"editor.fontWeight": "400",
 	"editor.tabSize": 4,
-	"javascript.updateImportsOnFileMove.enabled": "never",
-	"prettier.tabWidth": 4,
-	"guides.active.width": 2,
 	"editor.detectIndentation": false,
 	"editor.autoIndent": true,
-	"workbench.activityBar.visible": true,
-	"explorer.openEditors.visible": 0,
 	"editor.trimAutoWhitespace": true,
 	"editor.lineNumbers": "on",
-	"javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+	"editor.formatOnSave": true,
+	"editor.cursorStyle": "line",
 	"editor.fontSize": 12,
-	"workbench.editor.enablePreview": false,
+	"editor.fontLigatures": true,
+	
+	"explorer.openEditors.visible": 0,
+	
+	"guides.active.width": 2,
+	
+	"javascript.updateImportsOnFileMove.enabled": "never",
+	"javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+	
+	"prettier.printWidth": 100,
+	"prettier.useTabs": true,
+	"prettier.tabWidth": 4,
+	
+	"search.location": "sidebar",
+	
 	"vsicons.presets.jsOfficial": true,
+	
+	"workbench.iconTheme": "vscode-icons",
+	"workbench.activityBar.visible": true,
+	"workbench.editor.enablePreview": false,
 	"workbench.enableExperiments": false,
 	"workbench.panel.defaultLocation": "right",
 	"workbench.startupEditor": "none",
 	"workbench.statusBar.visible": true,
 	"workbench.sideBar.location": "left",
-	"search.location": "sidebar",
-	"breadcrumbs.enabled": true,
-	"breadcrumbs.symbolPath": "last",
-	"editor.fontLigatures": true,
-	"prettier.printWidth": 100,
-	"prettier.useTabs": true,
-	"editor.formatOnSave": true,
-	"editor.cursorStyle": "line"
+	
+	
+	
 }
