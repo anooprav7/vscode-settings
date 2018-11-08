@@ -19,6 +19,7 @@ My VSCode settings
 ```
 code --list-extensions | xargs -L 1 echo code --install-extension
 ```
+```
 code --install-extension christian-kohler.path-intellisense
 code --install-extension CoenraadS.bracket-pair-colorizer
 code --install-extension esbenp.prettier-vscode
@@ -31,3 +32,4 @@ code --install-extension pranaygp.vscode-css-peek
 code --install-extension robertohuertasm.vscode-icons
 code --install-extension spywhere.guides
 code --install-extension wix.vscode-import-cost
+```
