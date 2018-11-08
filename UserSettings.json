@@ -4,9 +4,17 @@
     "editor.fontFamily": "Open Sans, Menlo, Monaco, 'Courier New', monospace",
     "editor.letterSpacing": 0,
     "editor.fontWeight": "400",
-    "editor.tabSize": 4,
+    "editor.tabSize": 6,
     "javascript.updateImportsOnFileMove.enabled": "never",
-    "prettier.tabWidth": 4,
+    "prettier.tabWidth": 6,
     "guides.active.width": 2,
-    "editor.detectIndentation": false
+    "editor.detectIndentation": false,
+    "editor.autoIndent": true,
+    "workbench.activityBar.visible": true,
+    "explorer.openEditors.visible": 0,
+    "editor.trimAutoWhitespace": true,
+    "editor.lineNumbers": "on",
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+    "editor.fontSize": 12,
+    "workbench.editor.enablePreview": false
 }
