@@ -7,13 +7,14 @@ My VSCode settings
 
 
 ## Keyboard Shortcuts (OSX)
-* shift + option + f => Format code 
-* command + b => Toggle show/hide of sidebar
+* shift + option + f  => Format code 
+* command + b         => Toggle show/hide of sidebar
 * command + shift + t => Open last closed tab
-* command + p => File name based search
+* command + p         => Go to File (File search)
+* control + g         => Go to Line number (in file)
 * command + shift + f => Open Search for string pattern in project
-* control + \` (tilda) => Open Editor Terminal
-* command + / => Comment the line(s) of code using //
+* control + \`        => Open Editor Terminal
+* command + /         => Comment the line(s) of code using //
 
 ## Extensions list 
 [Add code to shell command](https://code.visualstudio.com/docs/setup/mac)
