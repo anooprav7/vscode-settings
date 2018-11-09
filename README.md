@@ -16,6 +16,7 @@ My VSCode settings
 * command + shift + f => Open Search for string pattern in project
 * control + `         => Open Editor Terminal
 * command + /         => Comment the line(s) of code using //
+* fn + up/down arrow  => Page Up / Page Down
 ```
 
 ## Extensions list 
