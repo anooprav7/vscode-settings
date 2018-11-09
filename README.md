@@ -14,7 +14,7 @@ My VSCode settings
 * command + p         => Go to File (File search)
 * control + g         => Go to Line number (in file)
 * command + shift + f => Open Search for string pattern in project
-* control + \`        => Open Editor Terminal
+* control + `         => Open Editor Terminal
 * command + /         => Comment the line(s) of code using //
 ```
 
