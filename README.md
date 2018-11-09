@@ -7,6 +7,7 @@ My VSCode settings
 
 
 ## Keyboard Shortcuts (OSX)
+```
 * shift + option + f  => Format code 
 * command + b         => Toggle show/hide of sidebar
 * command + shift + t => Open last closed tab
@@ -15,6 +16,7 @@ My VSCode settings
 * command + shift + f => Open Search for string pattern in project
 * control + \`        => Open Editor Terminal
 * command + /         => Comment the line(s) of code using //
+```
 
 ## Extensions list 
 [Add code to shell command](https://code.visualstudio.com/docs/setup/mac)
