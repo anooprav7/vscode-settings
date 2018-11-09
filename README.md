@@ -13,6 +13,7 @@ My VSCode settings
 * command + p => File name based search
 * command + shift + f => Open Search for string pattern in project
 * control + \` (tilda) => Open Editor Terminal
+* command + / => Comment the line(s) of code using //
 
 ## Extensions list 
 [Add code to shell command](https://code.visualstudio.com/docs/setup/mac)
