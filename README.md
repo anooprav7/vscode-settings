@@ -26,6 +26,7 @@ My VSCode settings
 code --list-extensions | xargs -L 1 echo code --install-extension
 ```
 ```
+code --install-extension christian-kohler.npm-intellisense
 code --install-extension christian-kohler.path-intellisense
 code --install-extension CoenraadS.bracket-pair-colorizer
 code --install-extension esbenp.prettier-vscode
