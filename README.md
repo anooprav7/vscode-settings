@@ -17,6 +17,7 @@ My VSCode settings
 * control + `         => Open Editor Terminal
 * command + /         => Comment the line(s) of code using //
 * fn + up/down arrow  => Page Up / Page Down
+* command + opt + [or]=> Folding and Unfolding code snippets
 ```
 
 ## Extensions list 
