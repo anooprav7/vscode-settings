@@ -45,3 +45,8 @@ code --install-extension robertohuertasm.vscode-icons
 code --install-extension spywhere.guides
 code --install-extension wix.vscode-import-cost
 ```
+
+## TODO
+* Add JS Snippets
+* Add CSS Snippets
+* Add React Snippets
