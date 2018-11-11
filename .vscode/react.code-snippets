@@ -1,1 +1,33 @@
-
+{
+	"React Functional Component": {
+		"scope": "javascript,typescript",
+		"prefix": "rfunc",
+		"body": [
+			"import React from 'react';",
+			"export default function $1(props) {",
+			"\treturn(",
+			"\t$2",
+			"\t)",
+			"}"
+		],
+		"description": "Create a functional component"
+	},
+	"React ComponentWillMount Function": {
+		"scope": "javascript,typescript",
+		"prefix": "rfcwm",
+		"body": ["componentWillMount() {", "\t$1", "}"],
+		"description": "ComponentWillMount"
+	},
+	"React ComponentDidMount Function": {
+		"scope": "javascript,typescript",
+		"prefix": "rfcdm",
+		"body": ["componentDidMount() {", "\t$1", "}"],
+		"description": "ComponentDidMount"
+	},
+	"React componentWillReceiveProps Function": {
+		"scope": "javascript,typescript",
+		"prefix": "rfcwrp",
+		"body": ["componentWillReceiveProps() {", "\t$1", "}"],
+		"description": "componentWillReceiveProps"
+	}
+}
