@@ -20,6 +20,11 @@ My VSCode settings
 * command + opt + [or]=> Folding and Unfolding code snippets
 ```
 
+## Custom Keybindings (keybindings.json)
+```
+* commmand + shift + / => toggle Block comment /* */
+```
+
 ## Extensions list 
 [Add code to shell command](https://code.visualstudio.com/docs/setup/mac)
 ```
