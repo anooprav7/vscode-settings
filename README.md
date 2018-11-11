@@ -56,6 +56,7 @@ code --install-extension formulahendry.auto-close-tag
 code --install-extension formulahendry.auto-rename-tag
 code --install-extension kamikillerto.vscode-colorize
 code --install-extension kisstkondoros.vscode-gutter-preview
+code --install-extension naumovs.color-highlight
 code --install-extension pflannery.vscode-versionlens
 code --install-extension pranaygp.vscode-css-peek
 code --install-extension robertohuertasm.vscode-icons
