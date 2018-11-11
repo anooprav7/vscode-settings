@@ -17,7 +17,7 @@ My VSCode settings
 * control + `         => Open Editor Terminal
 * command + /         => Comment the line(s) of code using //
 * fn + up/down arrow  => Page Up / Page Down
-* command + opt + [or]=> Folding and Unfolding code sections (Eg. functions, classes etc)
+* command + option + [or]   => Folding and Unfolding code sections (Eg. functions, classes etc)
   - command + K command + 0 => Fold all sections
   - command + K command + J => Unfold all sections
 ```
