@@ -24,15 +24,15 @@ My VSCode settings
 
 ### Cursor Control (Editing)
 ```
-* shift + option + command + up/down/right/left arrow key => Grows the cursor in that direction
-  - shift + option (while dragging with mouse)            => For selective vertical selection
-* option + mouse-click                                    => Put multiple cursors at different positions
-* shift + command + L                                     => Create cursors on all occurrences of a string
-  - select one instance of a string e.g. background-color and press ⇧⌘L. Now you can replace all instances by simply typing.
+* shift + option + command + up/down/right/left => Grows the cursor in that direction
+  - shift + option (while dragging with mouse)  => For selective vertical selection
+* option + mouse-click                          => Put multiple cursors at different positions
+* shift + command + L                           => Create cursors on all occurrences of a string
+  - select one instance of a string e.g. background-color and press ⇧⌘L. Start typing.
   
-* shift + option + up/down                                => Copy a line and insert it above or below the current position
-* option + up/down                                        => Move an entire line or selection of lines up or down
-* shift + command + k                                     => Delete the entire line
+* shift + option + up/down                      => Copy a line and insert it above or below the current position
+* option + up/down                              => Move an entire line or selection of lines up or down
+* shift + command + k                           => Delete the entire line
 
 
 ```
