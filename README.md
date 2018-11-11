@@ -48,5 +48,7 @@ code --install-extension wix.vscode-import-cost
 
 ## TODO
 * Add JS Snippets
+https://code.visualstudio.com/docs/editor/userdefinedsnippets
+https://adtmag.com/blogs/dev-watch/2017/05/vs-code-snippets.aspx
 * Add CSS Snippets
 * Add React Snippets
