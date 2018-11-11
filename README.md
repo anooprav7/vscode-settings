@@ -39,7 +39,7 @@ My VSCode settings
 
 ## Custom Keybindings (keybindings.json)
 ```
-* commmand + shift + / => toggle Block comment /* */
+* commmand + shift + / => Toggle Block comment /* */
 ```
 
 ## Extensions list 
