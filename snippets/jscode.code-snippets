@@ -1,0 +1,14 @@
+{
+	"JS Print to console with one argument": {
+		"scope": "javascript,typescript",
+		"prefix": "jlog",
+		"body": ["console.log('$1');", "$2"],
+		"description": "Log output to console"
+	},
+	"JS Print to console with two arguments": {
+		"scope": "javascript,typescript",
+		"prefix": "j2log",
+		"body": ["console.log('$1',$2);", "$3"],
+		"description": "Log output to console with variable"
+	}
+}
