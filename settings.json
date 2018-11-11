@@ -16,6 +16,7 @@
 	"editor.fontSize": 12,
 	"editor.fontLigatures": true,
 	"editor.acceptSuggestionOnEnter": "smart",
+	"editor.minimap.enabled": false,
 	
 	"explorer.openEditors.visible": 0,
 	
