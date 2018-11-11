@@ -17,7 +17,24 @@ My VSCode settings
 * control + `         => Open Editor Terminal
 * command + /         => Comment the line(s) of code using //
 * fn + up/down arrow  => Page Up / Page Down
-* command + opt + [or]=> Folding and Unfolding code snippets
+* command + opt + [or]=> Folding and Unfolding code sections (Eg. functions, classes etc)
+  - command + K command + 0 => Fold all sections
+  - command + K command + J => Unfold all sections
+```
+
+### Cursor Control (Editing)
+```
+* shift + option + command + up/down/right/left arrow key => Grows the cursor in that direction
+  - shift + option (while dragging with mouse)            => For selective vertical selection
+* option + mouse-click                                    => Put multiple cursors at different positions
+* shift + command + L                                     => Create cursors on all occurrences of a string
+  - select one instance of a string e.g. background-color and press ⇧⌘L. Now you can replace all instances by simply typing.
+  
+* shift + option + up/down                                => Copy a line and insert it above or below the current position
+* option + up/down                                        => Move an entire line or selection of lines up or down
+* shift + command + k                                     => Delete the entire line
+
+
 ```
 
 ## Custom Keybindings (keybindings.json)
