@@ -1,0 +1,15 @@
+{
+	"React Functional Component": {
+		"scope": "javascript,typescript",
+		"prefix": "rfunc",
+		"body": [
+			"import React from 'react';",
+			"export default function $1(props) {",
+			"\treturn(",
+			"\t$2",
+			"\t)",
+			"}"
+		],
+		"description": "Create a functional component"
+	}
+}
