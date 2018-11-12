@@ -33,8 +33,6 @@ My VSCode settings
 * shift + option + up/down                      => Copy a line and insert it above or below the current position
 * option + up/down                              => Move an entire line or selection of lines up or down
 * shift + command + k                           => Delete the entire line
-
-
 ```
 
 ## Custom Keybindings (keybindings.json)
