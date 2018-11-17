@@ -9,7 +9,8 @@ My VSCode settings
 ## Keyboard Shortcuts (OSX)
 ```
 * shift + option + f  => Format code 
-* command + b         => Toggle show/hide of sidebar
+* command + b         => Toggle open/close of sidebar
+* command + j         => Toggle open/close bottom bar 
 * command + shift + t => Open last closed tab
 * command + p         => Go to File (File search)
 * control + g         => Go to Line number (in file)
@@ -17,9 +18,6 @@ My VSCode settings
 * control + `         => Open Editor Terminal
 * command + /         => Comment the line(s) of code using //
 * fn + up/down arrow  => Page Up / Page Down
-* command + option + [or]   => Folding and Unfolding code sections (Eg. functions, classes etc)
-  - command + K command + 0 => Fold all sections
-  - command + K command + J => Unfold all sections
 ```
 
 ### Cursor Control (Editing)
@@ -33,6 +31,9 @@ My VSCode settings
 * shift + option + up/down                      => Copy a line and insert it above or below the current position
 * option + up/down                              => Move an entire line or selection of lines up or down
 * shift + command + k                           => Delete the entire line
+* command + option + [or]   => Folding and Unfolding code sections (Eg. functions, classes etc)
+  - command + K command + 0 => Fold all sections
+  - command + K command + J => Unfold all sections
 ```
 
 ### Navigating through code 
@@ -40,7 +41,7 @@ My VSCode settings
 * command + p -> type @  => Organises your code into methods and properties in the order they were written
               -> type @: => Groups the methods and properties (Eg. Variables and functions)
               -> type :  => Allows to jump to a line number (Also tells total line numbers)
-      
+              -> type ?  => Lists and shows all the symbols (like above) you can use
 ```
 
 ## Custom Keybindings (keybindings.json)
