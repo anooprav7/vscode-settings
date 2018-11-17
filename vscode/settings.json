@@ -24,12 +24,15 @@
 
 	"javascript.updateImportsOnFileMove.enabled": "never",
 	"javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+	"javascript.preferences.quoteStyle": "single"
 
 	"npm-intellisense.scanDevDependencies": true,
 
 	"prettier.printWidth": 100,
 	"prettier.useTabs": true,
 	"prettier.tabWidth": 4,
+	"prettier.singleQuote": true,
+    	"prettier.jsxSingleQuote": true,
 
 	"search.location": "sidebar",
 
