@@ -24,7 +24,7 @@
 
 	"javascript.updateImportsOnFileMove.enabled": "never",
 	"javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
-	"javascript.preferences.quoteStyle": "single"
+	"javascript.preferences.quoteStyle": "single",
 
 	"npm-intellisense.scanDevDependencies": true,
 
