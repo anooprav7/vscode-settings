@@ -35,6 +35,14 @@ My VSCode settings
 * shift + command + k                           => Delete the entire line
 ```
 
+### Navigating through code 
+```
+* command + p -> type @  => Organises your code into methods and properties in the order they were written
+              -> type @: => Groups the methods and properties (Eg. Variables and functions)
+              -> type :  => Allows to jump to a line number (Also tells total line numbers)
+      
+```
+
 ## Custom Keybindings (keybindings.json)
 ```
 * commmand + shift + / => Toggle Block comment /* */
