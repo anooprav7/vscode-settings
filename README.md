@@ -5,6 +5,10 @@ My VSCode settings
 * Font - [Fira Code](https://vscodecandothat.com/#font-ligatures)
 * Tab Size - 4
 
+## Emmet Shortcuts
+```
+! + tab => (in an html file) generates the basic template for index.html
+```
 
 ## Keyboard Shortcuts (OSX)
 ```
