@@ -31,9 +31,6 @@ My VSCode settings
 * shift + option + up/down                      => Copy a line and insert it above or below the current position
 * option + up/down                              => Move an entire line or selection of lines up or down
 * shift + command + k                           => Delete the entire line
-* command + option + [or]   => Folding and Unfolding code sections (Eg. functions, classes etc)
-  - command + K command + 0 => Fold all sections
-  - command + K command + J => Unfold all sections
 ```
 
 ### Navigating through code 
@@ -42,6 +39,9 @@ My VSCode settings
               -> type @: => Groups the methods and properties (Eg. Variables and functions)
               -> type :  => Allows to jump to a line number (Also tells total line numbers)
               -> type ?  => Lists and shows all the symbols (like above) you can use
+* command + option + [or]   => Folding and Unfolding code sections (Eg. functions, classes etc)
+  - command + K command + 0 => Fold all sections
+  - command + K command + J => Unfold all sections
 ```
 
 ## Custom Keybindings (keybindings.json)
