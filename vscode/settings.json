@@ -28,7 +28,7 @@
 
 	"npm-intellisense.scanDevDependencies": true,
 
-	"prettier.printWidth": 100,
+	"prettier.printWidth": 120,
 	"prettier.useTabs": true,
 	"prettier.tabWidth": 4,
 	"prettier.singleQuote": true,
