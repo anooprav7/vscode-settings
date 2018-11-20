@@ -55,9 +55,13 @@ My VSCode settings
 
 ## Extensions list 
 [Add code to shell command](https://code.visualstudio.com/docs/setup/mac)
+
+This command gives the plugin list and orders them in a direct install format
 ```
 code --list-extensions | xargs -L 1 echo code --install-extension
 ```
+
+Run the following in the terminal to install plugins
 ```
 code --install-extension christian-kohler.npm-intellisense
 code --install-extension christian-kohler.path-intellisense
