@@ -22,6 +22,7 @@ My VSCode settings
 * control + `         => Open Editor Terminal
 * command + /         => Comment the line(s) of code using //
 * fn + up/down arrow  => Page Up / Page Down
+* option + w          => Select a text and press these keys to add tag before and after the text (htmltagwrap plugin)
 ```
 
 ### Cursor Control (Editing)
@@ -63,6 +64,7 @@ code --list-extensions | xargs -L 1 echo code --install-extension
 
 Run the following in the terminal to install plugins
 ```
+code --install-extension bradgashler.htmltagwrap
 code --install-extension christian-kohler.npm-intellisense
 code --install-extension christian-kohler.path-intellisense
 code --install-extension CoenraadS.bracket-pair-colorizer
