@@ -5,11 +5,6 @@ My VSCode settings
 * Font - [Fira Code](https://vscodecandothat.com/#font-ligatures)
 * Tab Size - 4
 
-## Emmet Shortcuts
-```
-! + tab => (in an html file) generates the basic template for index.html
-```
-
 ## Keyboard Shortcuts (OSX)
 ```
 * shift + option + f  => Format code 
@@ -80,6 +75,11 @@ code --install-extension pranaygp.vscode-css-peek
 code --install-extension robertohuertasm.vscode-icons
 code --install-extension spywhere.guides
 code --install-extension wix.vscode-import-cost
+```
+
+## Emmet Shortcuts
+```
+! + tab => (in an html file) generates the basic template for index.html
 ```
 
 ## TODO
