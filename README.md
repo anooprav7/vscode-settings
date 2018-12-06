@@ -75,6 +75,7 @@ code --install-extension pranaygp.vscode-css-peek
 code --install-extension robertohuertasm.vscode-icons
 code --install-extension spywhere.guides
 code --install-extension wix.vscode-import-cost
+code --install-extension flowtype.flow-for-vscode
 ```
 
 ## Emmet Shortcuts
