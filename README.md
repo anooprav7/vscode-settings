@@ -89,6 +89,7 @@ code --install-extension flowtype.flow-for-vscode
 ```
 
 ## TODO
+* Add emmet to jsx
 * Add JS Snippets
 https://code.visualstudio.com/docs/editor/userdefinedsnippets
 https://adtmag.com/blogs/dev-watch/2017/05/vs-code-snippets.aspx
