@@ -8,16 +8,21 @@ My VSCode settings
 ## Keyboard Shortcuts (OSX)
 ```
 * shift + option + f  => Format code 
-* command + b         => Toggle open/close of sidebar
-* command + j         => Toggle open/close bottom bar 
-* command + shift + t => Open last closed tab
 * command + p         => Go to File (File search)
 * control + g         => Go to Line number (in file)
-* command + shift + f => Open Search for string pattern in project
 * control + `         => Open Editor Terminal
 * command + /         => Comment the line(s) of code using //
 * fn + up/down arrow  => Page Up / Page Down
 * option + w          => Select a text and press these keys to add tag before and after the text (htmltagwrap plugin)
+```
+
+### Window shortcuts
+```
+* command + b         => Toggle open/close of sidebar
+* command + j         => Toggle open/close bottom bar 
+* command + shift + t => Open last closed tab
+* command + shift + e => Open Folder explorer
+* command + shift + f => Search for string pattern in the whole project
 ```
 
 ### Cursor Control (Editing)
