@@ -3,9 +3,9 @@
 	"breadcrumbs.symbolPath": "last",
 
 	"editor.renderIndentGuides": false,
-	"editor.fontFamily": "Fira Code, Open Sans, Menlo, Monaco, 'Courier New', monospace",
+	"editor.fontFamily": "'Fira Code', Open Sans, Menlo, Monaco, 'Courier New', monospace",
 	"editor.letterSpacing": 0,
-	"editor.fontWeight": "400",
+	"editor.fontWeight": "300",
 	"editor.tabSize": 4,
 	"editor.detectIndentation": false,
 	"editor.autoIndent": true,
@@ -32,7 +32,7 @@
 	"prettier.useTabs": true,
 	"prettier.tabWidth": 4,
 	"prettier.singleQuote": true,
-    	"prettier.jsxSingleQuote": true,
+	"prettier.jsxSingleQuote": true,
 
 	"search.location": "sidebar",
 
@@ -45,5 +45,6 @@
 	"workbench.panel.defaultLocation": "right",
 	"workbench.startupEditor": "none",
 	"workbench.statusBar.visible": true,
-	"workbench.sideBar.location": "left"
+    "workbench.sideBar.location": "left",
+    "workbench.colorTheme": "One Monokai"
 }
