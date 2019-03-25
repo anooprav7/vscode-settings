@@ -23,7 +23,7 @@ My VSCode settings
 * command + shift + t => Open last closed tab
 * command + shift + e => Open Folder explorer
 * command + shift + f => Search for string pattern in the whole project
-* control + tab		  => Switch between Open tabs
+* control + tab       => Switch between Open tabs
 ```
 
 ### Cursor Control (Editing)
