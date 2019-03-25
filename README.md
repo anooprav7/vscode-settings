@@ -4,6 +4,7 @@ My VSCode settings
 ## User Settings
 * Font - [Fira Code](https://vscodecandothat.com/#font-ligatures)
 * Tab Size - 4
+* Theme - [One Monokai](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai)
 
 ## Keyboard Shortcuts (OSX)
 ```
